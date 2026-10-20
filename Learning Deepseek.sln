@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Learning Deepseek", "Learning Deepseek\Learning Deepseek.vcxproj", "{6138038E-395A-45CC-97E2-DDAFCC0A696B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TelemetryDispetcher", "TelemetryDispetcher\TelemetryDispetcher.vcxproj", "{C70E8FE9-AFAB-4086-A3C3-3643E7892432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6138038E-395A-45CC-97E2-DDAFCC0A696B}.Debug|x64.ActiveCfg = Debug|x64
+		{6138038E-395A-45CC-97E2-DDAFCC0A696B}.Debug|x64.Build.0 = Debug|x64
+		{6138038E-395A-45CC-97E2-DDAFCC0A696B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6138038E-395A-45CC-97E2-DDAFCC0A696B}.Debug|x86.Build.0 = Debug|Win32
+		{6138038E-395A-45CC-97E2-DDAFCC0A696B}.Release|x64.ActiveCfg = Release|x64
+		{6138038E-395A-45CC-97E2-DDAFCC0A696B}.Release|x64.Build.0 = Release|x64
+		{6138038E-395A-45CC-97E2-DDAFCC0A696B}.Release|x86.ActiveCfg = Release|Win32
+		{6138038E-395A-45CC-97E2-DDAFCC0A696B}.Release|x86.Build.0 = Release|Win32
+		{C70E8FE9-AFAB-4086-A3C3-3643E7892432}.Debug|x64.ActiveCfg = Debug|x64
+		{C70E8FE9-AFAB-4086-A3C3-3643E7892432}.Debug|x64.Build.0 = Debug|x64
+		{C70E8FE9-AFAB-4086-A3C3-3643E7892432}.Debug|x86.ActiveCfg = Debug|Win32
+		{C70E8FE9-AFAB-4086-A3C3-3643E7892432}.Debug|x86.Build.0 = Debug|Win32
+		{C70E8FE9-AFAB-4086-A3C3-3643E7892432}.Release|x64.ActiveCfg = Release|x64
+		{C70E8FE9-AFAB-4086-A3C3-3643E7892432}.Release|x64.Build.0 = Release|x64
+		{C70E8FE9-AFAB-4086-A3C3-3643E7892432}.Release|x86.ActiveCfg = Release|Win32
+		{C70E8FE9-AFAB-4086-A3C3-3643E7892432}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA10241-1FBB-409A-85E1-3A7D8BC1BC29}
+	EndGlobalSection
+EndGlobal
